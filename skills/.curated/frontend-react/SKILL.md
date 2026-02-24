@@ -5,6 +5,10 @@ description: Build and refactor React frontend applications with TypeScript, com
 
 # React Development Workflow
 
+## Load references selectively
+
+1. Read `references/typescript-advanced-types/SKILL.md` when task includes advanced TypeScript typing: generic abstractions, conditional/mapped/template literal types, deep utility types, or complex inference fixes.
+
 ## Apply architecture first
 
 1. Identify app type: SPA, Next.js app router, or widget integration.
@@ -29,4 +33,3 @@ description: Build and refactor React frontend applications with TypeScript, com
 1. Add or update tests around business logic and critical rendering branches.
 2. Validate lint/typecheck/test commands before finalizing.
 3. Document non-obvious tradeoffs in code comments near complex logic.
-

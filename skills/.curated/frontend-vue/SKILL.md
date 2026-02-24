@@ -15,6 +15,7 @@ Use these references from `references/agents` based on task scope:
 4. Read `references/agents/vite/SKILL.md` for build/dev server/config details.
 5. Read `references/agents/vueuse-functions/SKILL.md` and targeted files in `references/agents/vueuse-functions/references/` only for required composables.
 6. Read `references/agents/vue-best-practices/SKILL.md` and specific files in `references/agents/vue-best-practices/reference/` for edge-case behavior and performance tuning.
+7. Read `references/typescript-advanced-types/SKILL.md` when task includes advanced TypeScript typing: generic abstractions, conditional/mapped/template literal types, deep utility types, or complex inference fixes.
 
 ## Establish structure
 
