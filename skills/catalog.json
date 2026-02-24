@@ -1,0 +1,25 @@
+{
+  "skills": [
+    {
+      "name": "frontend-react",
+      "title": "Frontend / React",
+      "description": "React + TypeScript engineering workflow for modern SPA and Next.js projects."
+    },
+    {
+      "name": "frontend-vue",
+      "title": "Frontend / Vue",
+      "description": "Vue 3 + TypeScript workflow with composables, Pinia, and scalable frontend architecture."
+    },
+    {
+      "name": "backend-fastapi",
+      "title": "Backend / FastAPI",
+      "description": "FastAPI backend patterns for modular APIs, validation, testing, and deployment."
+    },
+    {
+      "name": "backend-nestjs",
+      "title": "Backend / NestJS",
+      "description": "NestJS backend workflow for domain modules, DTO validation, and production readiness."
+    }
+  ]
+}
+

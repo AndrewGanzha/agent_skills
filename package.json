@@ -1,0 +1,23 @@
+{
+  "name": "skills",
+  "version": "0.1.0",
+  "description": "Curated Codex skills installer",
+  "bin": {
+    "skills": "bin/skills.js"
+  },
+  "files": [
+    "bin",
+    "skills",
+    "README.md"
+  ],
+  "keywords": [
+    "codex",
+    "skills",
+    "cli"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
+
