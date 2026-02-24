@@ -5,6 +5,17 @@ description: Build and refactor Vue frontend applications with Vue 3, TypeScript
 
 # Vue Development Workflow
 
+## Load imported references selectively
+
+Use these references from `references/agents` based on task scope:
+
+1. Read `references/agents/vue/SKILL.md` and `references/agents/vue/references/*` for Vue 3 core patterns.
+2. Read `references/agents/pinia/SKILL.md` for shared state architecture and advanced store patterns.
+3. Read `references/agents/vue-router-best-practices/SKILL.md` for router structure, guards, and navigation rules.
+4. Read `references/agents/vite/SKILL.md` for build/dev server/config details.
+5. Read `references/agents/vueuse-functions/SKILL.md` and targeted files in `references/agents/vueuse-functions/references/` only for required composables.
+6. Read `references/agents/vue-best-practices/SKILL.md` and specific files in `references/agents/vue-best-practices/reference/` for edge-case behavior and performance tuning.
+
 ## Establish structure
 
 1. Use Vue 3 Composition API as default.
@@ -29,4 +40,3 @@ description: Build and refactor Vue frontend applications with Vue 3, TypeScript
 1. Cover composables and critical UI flows with tests.
 2. Run lint, type-check, and test commands before shipping changes.
 3. Verify SSR/client hydration constraints when Nuxt or SSR mode is used.
-
